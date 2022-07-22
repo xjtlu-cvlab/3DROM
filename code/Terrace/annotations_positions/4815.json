@@ -1,0 +1,36 @@
+[
+    {
+        "personID":1,
+        "positionID":402,
+        "views":[
+            {
+                "viewNum":0,
+                "xmax":87,
+                "xmin":27,
+                "ymax":200,
+                "ymin":28
+            },
+            {
+                "viewNum":1,
+                "xmax":271,
+                "xmin":213,
+                "ymax":185,
+                "ymin":19
+            },
+            {
+                "viewNum":2,
+                "xmax":198,
+                "xmin":166,
+                "ymax":109,
+                "ymin":18
+            },
+            {
+                "viewNum":3,
+                "xmax":266,
+                "xmin":227,
+                "ymax":126,
+                "ymin":16
+            }
+        ]
+    }
+]
