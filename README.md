@@ -1,6 +1,10 @@
 # 3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization  
 ## Overview  
-The code and demonstration videos of the 3DROM, as well as the Terrace ground truth data created by us and used in the [[arXiv]](http://arxiv.org/abs/2207.10895), are provided here.  
+The code and demonstration videos of the 3DROM, as well as the Terrace ground truth data created by us and used in the [[arXiv]](http://arxiv.org/abs/2207.10895), are provided here. 
+
+Qiu, R., Xu, M., Yan, Y., Smith, J. S., & Yang, X. (2022). 3D Random Occlusion and Multi-layer Projection for Deep Multi-camera Pedestrian Localization. In S. Avidan, G. Brostow, M. Cissé, G. M. Farinella, & T. Hassner (Eds.), Computer Vision – ECCV 2022 - 17th European Conference, Proceedings (pp. 695-710). (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics); Vol. 13670 LNCS). Springer Science and Business Media Deutschland GmbH. https://doi.org/10.1007/978-3-031-20080-9_40
+
+
 
 ## Dependencies  
 The programme uses the following libraries:  
